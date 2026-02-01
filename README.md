@@ -6,7 +6,6 @@ It’s designed to look clean out of the box, stay out of your way, and be easy 
 
 ---
 
-<<<<<<< HEAD
 ## 🌐 Live Demo
 
 See the plugin in action:
@@ -40,6 +39,7 @@ Each card can have its **own accent color**, or it can inherit the **global defa
 Priority order:
 
 =======
+
 ## ✨ Features
 
 - 🗂 **Custom Gutenberg block** (“MV Card”)
@@ -63,7 +63,9 @@ Priority order:
 Each card can have its **own accent color**, or it can inherit the **global default**.
 
 Priority order:
->>>>>>> f1b8e1e098b705ab588e464264e18b37a1728a4f
+
+> > > > > > > f1b8e1e098b705ab588e464264e18b37a1728a4f
+
 1. Per-card accent color (set in the block sidebar)
 2. Global default accent color (plugin setting)
 3. Fallback color: `#228B22` 🌿
@@ -80,7 +82,9 @@ There you can:
 <<<<<<< HEAD
 
 =======
->>>>>>> f1b8e1e098b705ab588e464264e18b37a1728a4f
+
+> > > > > > > f1b8e1e098b705ab588e464264e18b37a1728a4f
+
 - 🎨 Set the **global default accent color** used by all cards
 
 Inside the Block Editor, the MV Card sidebar will also remind you where this setting lives.
@@ -100,17 +104,23 @@ Inside the Block Editor, the MV Card sidebar will also remind you where this set
 ## 📦 Installation
 
 ### Option 1: Upload ZIP
+
 <<<<<<< HEAD
 
 =======
->>>>>>> f1b8e1e098b705ab588e464264e18b37a1728a4f
+
+> > > > > > > f1b8e1e098b705ab588e464264e18b37a1728a4f
+
 1. WordPress Admin → Plugins → Add New → Upload Plugin
 2. Upload the `mv-card-block.zip`
 3. Activate
 
 ### Option 2: Manual
+
 <<<<<<< HEAD
 
 =======
->>>>>>> f1b8e1e098b705ab588e464264e18b37a1728a4f
+
+> > > > > > > f1b8e1e098b705ab588e464264e18b37a1728a4f
+
 1. Copy the plugin folder to:
