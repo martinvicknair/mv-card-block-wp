@@ -32,14 +32,6 @@ See the plugin in action:
 
 ---
 
-## 🧠 How Accent Colors Work
-
-Each card can have its **own accent color**, or it can inherit the **global default**.
-
-Priority order:
-
-=======
-
 ## ✨ Features
 
 - 🗂 **Custom Gutenberg block** (“MV Card”)
