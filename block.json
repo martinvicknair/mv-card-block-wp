@@ -1,0 +1,28 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mv/card",
+  "title": "MV Card",
+  "category": "design",
+  "icon": "index-card",
+  "description": "A simple card with title, subtitle, body content, and optional CTA.",
+  "textdomain": "mv-card-block",
+  "supports": {
+    "html": false,
+    "anchor": true,
+    "spacing": {
+      "margin": true,
+      "padding": true
+    }
+  },
+  "attributes": {
+    "title": { "type": "string", "default": "" },
+    "subtitle": { "type": "string", "default": "" },
+    "content": { "type": "string", "default": "" },
+    "ctaType": { "type": "string", "default": "button" },
+    "ctaText": { "type": "string", "default": "" },
+    "ctaUrl": { "type": "string", "default": "" },
+    "ctaNewTab": { "type": "boolean", "default": false },
+    "accentColor": { "type": "string", "default": "" }
+  }
+}

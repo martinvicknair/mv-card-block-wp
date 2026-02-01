@@ -1,0 +1,18 @@
+/* MV Card Block – editor styles */
+.wp-block-mv-card .mv-card__cta-preview {
+  margin-top: 12px;
+  opacity: .9;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.wp-block-mv-card .mv-card__cta-preview-label {
+  font-size: 12px;
+  opacity: .75;
+}
+
+.wp-block-mv-card .mv-card__cta-btn {
+  cursor: default;
+}
