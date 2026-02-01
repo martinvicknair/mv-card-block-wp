@@ -1,4 +1,4 @@
-# 🧩 MV Card Block for WordPress
+# 🧩 MV Cards WordPress Plugin
 
 **MV Card Block** is a lightweight **WordPress Gutenberg plugin** that adds a flexible, reusable **Card block** to the Block Editor.
 
@@ -72,4 +72,3 @@ Inside the Block Editor, the MV Card sidebar will also remind you where this set
 4. Click **Activate** to enable the plugin
 
 Your plugin is now installed and ready to use!
-
